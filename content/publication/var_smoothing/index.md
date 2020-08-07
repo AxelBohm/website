@@ -38,7 +38,7 @@ url_pdf: https://arxiv.org/pdf/2007.13605.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Robust completely positive matrix factorization'
   focal_point: ""
   preview_only: false
 
