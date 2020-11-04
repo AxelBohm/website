@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Optimization
+role: PostDoc working in Optimization
 
 # Organizations/Affiliations
 organizations:
@@ -23,10 +23,11 @@ bio: My research interests include optimization, and machine learning.
 interests:
 - Optimization
 - Machine Learning
+- Minimax problems and GANs
 
 education:
   courses:
-  - course: (Future) PhD in Optimization
+  - course: PhD in Optimization
     institution: University of Vienna
     year: 2020
   - course: Msc in Mathemtical Methods in Economics
@@ -63,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD at Faculty of Mathematics of the University of Vienna. I work in continuous optimization, with a focus on nonsmooth large-scale problems.
+I am a PostDoc at Faculty of Mathematics of the University of Vienna. I work in continuous optimization, with a focus on nonsmooth large-scale problems.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
